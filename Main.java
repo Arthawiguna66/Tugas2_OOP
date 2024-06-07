@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ariputraaa
+ * @author I Kadek Artha Wiguna-2201010424
  */
 
 public class Main {
